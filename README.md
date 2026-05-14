@@ -1,12 +1,11 @@
 # 🏦 Banking System Database
 
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-red.svg)](https://www.microsoft.com/en-us/sql-server/)
-[![Dapper](https://img.shields.io/badge/Dapper-2.0-blue.svg)](https://github.com/DapperLib/Dapper)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-red.svg)](https://www.microsoft.com/en-us/sql-server/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📌 Project Overview
 
-A complete banking database system demonstrating **relational database design**, **indexing strategies**, and **optimized queries** with **One-to-Many relationships**. This project showcases professional database development skills using SQL Server and Dapper ORM.
+A complete banking database system demonstrating **relational database design**, **indexing strategies**, and **optimized queries** with **One-to-Many relationships**. This project showcases professional database development skills using SQL Server and.
 
 ## 🎯 Key Features
 
