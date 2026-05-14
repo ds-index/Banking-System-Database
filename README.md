@@ -67,9 +67,8 @@ A complete banking database system demonstrating **relational database design**,
 
 ### Prerequisites
 
-- SQL Server 2019 or higher
+- SQL Server 2022 or higher
 - SQL Server Management Studio (SSMS)
-- .NET 6.0+ (for Dapper examples)
 
 ### Installation Steps
 
