@@ -164,20 +164,19 @@ Banking-System-Database/
 ├── .gitignore
 └── README.md
 
-📞 Contact & Portfolio
-This database demonstrates my skills in:
+## 🤝 Connect With Me
 
-Database Design & Architecture
-
-Performance Tuning & Optimization
-
-T-SQL Programming
-
-⭐ Star this repository if you find it useful for learning database design!
-
-📧 Email: your.email@example.com
-🔗 LinkedIn: linkedin.com/in/yourusername
-🐙 GitHub: github.com/yourusername
+<p align="left">
+  <a href="https://github.com/ds-index">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arman-ds-b3b967291">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:ds.limited.ar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 📄 License
 MIT License - feel free to use this project for learning and portfolio purposes.
